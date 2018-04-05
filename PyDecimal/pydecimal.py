@@ -1,4 +1,4 @@
-class pybase():
+class PyDecimal:
     def __init__(self):
         pass
 
@@ -13,7 +13,7 @@ class pybase():
 
         return base10
 
-    def calc_base10(base10):
+    def calc_base10(self, base10):
         base2_list = []
         while (base10 >= 1):
             bit = base10 % 2

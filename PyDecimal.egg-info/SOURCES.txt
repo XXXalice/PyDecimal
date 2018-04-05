@@ -1,0 +1,8 @@
+README.md
+setup.py
+PyDecimal/__init__.py
+PyDecimal/pydecimal.py
+PyDecimal.egg-info/PKG-INFO
+PyDecimal.egg-info/SOURCES.txt
+PyDecimal.egg-info/dependency_links.txt
+PyDecimal.egg-info/top_level.txt
